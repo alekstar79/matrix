@@ -9,15 +9,15 @@ That's all...
 
 Clone this repo:
 ```shell
-git clone git@github.com:alekstar79/fa-background.git
+git clone git@github.com:alekstar79/matrix.git
 ```
 Go to project directory:
 ```shell
-cd fa-background
+cd matrix
 ```
 Start server:
 ```shell
 serve -s .
 ```
 
-![review](review.gif "FA Background")
+![review](review.gif "Matrix")
